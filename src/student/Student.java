@@ -18,7 +18,7 @@ public class Student {
     public static void main(String[] args) {
         // TODO code application logic here
         Student s1=new Student();
-        s1.setName("Gurdeep");
+        s1.setName("Gurdeepbvbv");
         System.out.println(s1.getName());
     }
 
