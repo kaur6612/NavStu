@@ -12,5 +12,21 @@ package student;
  */
 public class sTNewClass {
     public static void main(String[] args){
-    System.out.println("Navdeep");}
+        private int n;
+    System.out.println("Navdeep");
+
+    /**
+     * @return the n
+     */
+    public int getN() {
+        return n;
+    }
+
+    /**
+     * @param n the n to set
+     */
+    public void setN(int n) {
+        this.n = n;
+    }
+}
 }
